@@ -72,7 +72,7 @@ function passwordChecker(pass) {
 let myPassword = 'qwerty123'
 console.log(passwordChecker(myPassword))
 
-// Shorthand Functions
+// Shorthand Functions (Arrow Functions)
 const multiplierES6 = (a, b) => a* b
 console.log(multiplierES6(3,3))
 
